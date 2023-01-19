@@ -1,0 +1,298 @@
+body {
+    background-color: #B2C382;
+    font-family: "Inter";
+}
+h1 {
+    font-size: 30px;
+    font-style: normal;
+    font-weight: 400;
+   
+}
+h2 {
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 400;
+    
+}
+hr {
+    position: absolute;
+    width: 614px;
+    height: 3px;
+    left: 360px;
+    top: 190px;
+    background: #000000;
+}
+.left img {
+    width: 96px;
+    height: 91px;
+    left: 617px;
+    top: 178px;
+    border-radius: 10px;
+    transform: matrix(-1, 0, 0, 1, 0, 0);
+} 
+.left {
+    padding: 78px 0px 0px 450px;
+    float: left;
+}
+.right {
+    padding: 70px 0px 0px 45px;
+    float: left;
+}
+.block-round-content {
+    padding: 40px;
+    margin: -30px -7px -7px -7px;
+    width: 614px;
+    height: 150px;
+}
+.white {
+      position: absolute;
+      width: 614px;
+      height: 180px;
+      left: 360px;
+      top: 245px;
+      
+      background: #FFFFFF;
+      border-radius: 3px;
+}
+h3 {
+        font-size: 18px;
+        font-style: normal;
+        font-weight: 550;
+        padding: 0px 0px 0px 200px;
+}
+h4 {
+        font-size: 14.5px;
+        font-style: normal;
+        font-weight: 400;
+        padding: 0px 0px 0px 0px;
+        line-height: 16.94px;
+}
+h5 {
+        font-size: 18px;
+        font-style: normal;
+        font-weight: 550;
+        padding: 5px 0px 0px 220px;
+        line-height: 21.78px;
+     
+}
+.block1 {
+    position: absolute;
+    width: 614px;
+    height: 190px;
+    left: 360px;
+    top: 533px;
+    border-radius: 3px;
+    margin-right: 10px
+}
+.subblock0 {
+    position: absolute;
+    width: 72px;
+    height: 66px;
+    left: 0px;
+    top: px;
+    border-radius: 3px;
+    margin-right: 10px
+}
+.subblock0 img {
+    width: 72px;
+    height: 66px;
+}
+.subblock1 {
+    position: absolute;
+    width: 62px;
+    height: 62px;
+    left: 100px;
+    top: 0px;
+    border-radius: 3px;
+    margin-right: 10px
+}
+.subblock1 img {
+    width: 62px;
+    height: 62px;
+}
+.subblock2 {
+    position: absolute;
+    width: 72px;
+    height: 66px;
+    left: 200px;
+    top: 0px;
+    border-radius: 3px;
+    margin-right: 10px
+}
+.subblock2 img {
+    width: 38px;
+    height: 59px;
+    
+}
+.subblock3 {
+    position: absolute;
+    width: 93px;
+    height: 92px;
+    left: 250px;
+    top: -15px;
+    border-radius: 3px;
+    margin-right: 10px
+}
+.subblock3 img {
+    width: 93px;
+    height: 92px;
+}
+.subblock4 {
+    position: absolute;
+    width: 60px;
+    height: 59px;
+    left: 350px;
+    top: 0px;
+    border-radius: 3px;
+    margin-right: 10px
+}
+.subblock4 img {
+    width: 60px;
+    height: 59px;
+   
+} 
+.subblock5 {
+    position: absolute;
+    width: 169px;
+    height: 34px;
+    left: 440px;
+    top: 10px;
+    border-radius: 3px;
+    margin-right: 10px
+}
+.subblock5 img {
+    width: 169px;
+    height: 34px;
+   
+} 
+.white2 {
+    position: absolute;
+    width: 614px;
+    height: 309px;
+    left: 360px;
+    top: 640px;
+    
+    background: #FFFFFF;
+    border-radius: 3px;
+}
+h6 {
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 550;
+    padding: 0px 20px 10px 230px; 
+
+}
+.certificate img {
+    position: absolute;
+    width: 260px;
+    height: 191px;
+    left: 30px;
+    top: 90px;
+    filter: drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.25));
+    border-radius: 3px;
+}
+.certificate1 img {
+    position: absolute;
+    width: 270px;
+    height: 191px;
+    left: 320px;
+    top: 90px;
+    filter: drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.25));
+    border-radius: 3px;
+}
+.white3 {
+    position: absolute;
+    width: 614px;
+    height: 429px;
+    left: 360px;
+    top: 990px;
+    
+    background: #FFFFFF;
+    border-radius: 3px;
+}
+h7 {
+    position: absolute;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 550;
+    padding-top: 30px;
+    padding-left: 180px;
+}
+.table {
+        border-collapse: collapse;
+        position: absolute;
+        width: 529px;
+        height: 315px;
+        left: 43px;
+        top: 70px; 
+        
+        background: #E5E5E5;
+        border-radius: 3px;
+    }
+      
+table td, th {
+        border: 1.5px solid #ddd;
+        padding: 26px;
+        border-color: #FFFFFF;
+      }  
+.table hr {
+    position: absolute;
+    width: 614px;
+    height: 3px;
+    left: -40px;
+    top: 390px;
+    background: #040404;
+}
+.connect{
+    position: absolute;
+    width:  300px;
+    height: 34px;
+    left: 500px;
+    top: 1500;
+
+}
+h8 {
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 550;
+    padding: 23px 23px 23px 85px;
+    line-height: 21.78px;
+}
+.End {
+    position: absolute;
+    width:  600px;
+    height: 100px;
+    left: 500px;
+    top: 1550;
+}
+.number{
+    position: absolute;
+    width:  200px;
+    height: 34px;
+    left: -130px;
+    top: 10;
+    float: left;
+}
+h9 {
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 500;
+    padding: 500px 0px 0px 10px;
+    line-height: 21.78px;
+}
+.TG {
+    position: absolute;
+    width:  500px;
+    height: 34px;
+    left: 80px;
+    top: 10;
+    float: right;
+}
+.GIT {
+    position: absolute;
+    width:  400px;
+    height: 34px;
+    left: 300px;
+    top: 10;
+    float: right;
+}
