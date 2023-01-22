@@ -261,7 +261,7 @@ h8 {
 .End {
     position: absolute;
     width:  600px;
-    height: 100px;
+    height: 34px;
     left: 500px;
     top: 1550;
 }
@@ -277,7 +277,7 @@ h9 {
     font-size: 14px;
     font-style: normal;
     font-weight: 500;
-    padding: 500px 0px 0px 10px;
+    padding: 500px 0p 0px 10px;
     line-height: 21.78px;
 }
 .TG {
@@ -299,4 +299,38 @@ h9 {
 a {
   color: black; 
   font-size: 14px;
+}
+.video {
+    position: absolute;
+    width:  200px;
+    height: 34px;
+    left: 380;
+    top: 1630;
+}
+.video h10 {
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 600;
+    padding-left: 250;
+   
+}
+iframe {
+    padding-top: 20;
+}
+.wishes {
+    position: absolute;
+    width:  800px;
+    height: 100px;
+    left: 400;
+    top: 2030;
+}
+.wishes h11 {
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 600;
+    padding-left: 200;
+}
+form {
+    padding-top: 20;
+
 }
