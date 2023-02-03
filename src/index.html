@@ -16,7 +16,7 @@
             </div>
             <hr>
             <div class="white" id="1">
-                <div class="block-round-content">
+                <div data-test-id="block__content" class="block-round-content">
                     <h3>Факты обо мне</h3>
                         <h4>
                             <ul id="list">
@@ -32,7 +32,6 @@
                 </div> 
             </div>
             <div class="block1" id="2">
-                
                 <div class="subblock0">
                     <img src="images/image 2.png" alt="фото2"> 
                 </div>
@@ -103,13 +102,13 @@
                 <div class="TG">
                     <div>
                         <h9>Telegram:</h9>
-                        <a href="https://t.me/YaAngelina23">@YaAngelina23</a>        
+                        <a data-test-id="link__t.me" href="https://t.me/YaAngelina23">@YaAngelina23</a>        
                     </div>
                 </div>
                 <div class="GIT">
                     <div>
                         <h9>GitHub:</h9>
-                        <a href="https://github.com/AngelinaYa97">AngelinaYa97</a>  
+                        <a data-test-id="link__github" href="https://github.com/AngelinaYa97">AngelinaYa97</a>  
                     </div>
                 </div> 
             </div>
@@ -121,9 +120,9 @@
                 <h11>Пожелания</h11>
                 <form name="Wishes">
                     Напиши своё пожелание:
-                    <input type="text" name="wish" id="firstname" maxlength="50">
-                    <input type="submit" value="Отправить" name="button"><br>
-                    <input type="checkbox" name="anonim">Отправить анонимно
+                    <input type="text" data-test-id="text__wish" name="wish" id="firstname" maxlength="50">
+                    <input type="submit" data-test-id="button__send" value="Отправить" name="button"><br>
+                    <input type="checkbox" data-test-id="checkbox__anonymous" name="anonim">Отправить анонимно
                   </form>
             </div>
 </header>
